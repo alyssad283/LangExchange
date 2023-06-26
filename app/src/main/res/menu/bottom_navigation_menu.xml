@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+<item
+    android:title=""
+    android:id = "@+id/ic_chat"
+    android:icon = "@drawable/ic_chat"
+
+    />
+    <item
+        android:title=""
+        android:id = "@+id/ic_flashcard"
+        android:icon = "@drawable/ic_flashcard"
+
+        />
+    <item
+        android:title=""
+        android:id = "@+id/ic_translation"
+        android:icon = "@drawable/_2752"
+
+        />
+
+
+
+</menu>
