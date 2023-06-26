@@ -1,0 +1,74 @@
+<resources>
+    <string name="app_name">LangExchange</string>
+    <string name="flashcard_title">Flashcards</string>
+    <string name="flashcard_instructions">Select a flashcard</string>
+    <string name="go_back">Go back</string>
+    <string name="input_placeholder">Write a message</string>
+    <string name="todo">TODO</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="title_activity_register">Register</string>
+    <!--
+    This string is used for square devices and overridden by hello_world in
+    values-round/strings.xml for round devices.
+    -->
+    <string name="hello_world">Hello Square World!</string>
+    <string name="make_quiz">Make Quiz</string>
+    <string name="show_quiz">Show Quiz</string>
+    <string name="add_to_quiz">Add to Quiz</string>
+    <string name="quiz_item_manual">Start Adding Questions</string>
+    <string name="make_your_own_quiz_text">Make Your Own Quiz</string>
+    <string name="original_word_field">Original Word</string>
+    <string name="translated_word_field">Translated Word</string>
+    <string name="definition_field">Answer</string>
+    <string name="view_quiz_button">View Quiz</string>
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="type_your_answer">Type Your Answer</string>
+    <string name="submit_quiz_answer">Submit</string>
+    <string name="quiz_title">Quiz</string>
+    <string name="view_quiz_result_btn">View Result</string>
+    <string name="show_flashcards_btn">Show Flashcards</string>
+    <string name="no_connection">No internet connection! Cannot be translated!</string>
+    <string name="title_activity_translation_testing">TranslationTesting</string>
+    <string name="start_chat_button">Chat</string>
+    <string name="placeholder_message">Placeholder message</string>
+    <string name="spanish_room_btn">SPANISH</string>
+    <string name="german_room_btn">GERMAN</string>
+    <string name="french_room_btn">FRENCH</string>
+    <string name="english_room_btn">ENGLISH</string>
+    <string name="flashcards_img">flashcards_img</string>
+    <string name="chat_img">chat_img</string>
+    <string name="go_to_chat_btn">Go to Chat</string>
+    <string name="go_to_flashcards_btn">Go to Flashcards</string>
+    <string name="select_a_language">Select a Language</string>
+    <string name="create_room_Btn">Create Room</string>
+    <string name="available_rooms">Available Rooms</string>
+    <string name="title_activity_photo_translation_test">PhotoTranslationText</string>
+    <string name="submit_quiz_btn">Submit</string>
+    <string name="your_average_grade_text">Your Grade</string>
+    <string name="wrong_answers_text">Results</string>
+    <string-array name="languages_array">
+        <item>English</item>
+        <item>Spanish</item>
+        <item>German</item>
+        <item>Chinese</item>
+        <item>French</item>
+        <item>Vietnamese</item>
+        <item>Russian</item>
+        <item>Tagalog</item>
+        <item>Latin</item>
+    </string-array>
+</resources>
