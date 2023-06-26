@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">LangExchange</string>
+    <string name="flashcard_title">Flashcards</string>
+    <string name="flashcard_instructions">Select a flashcard</string>
+    <string name="go_back">Go back</string>
+    <string name="input_placeholder">Write a message</string>
+    <string name="todo">TODO</string>
+    <string name="make_quiz">Make Quiz</string>
+    <string name="show_quiz">Show Quiz</string>
+    <string name="add_to_quiz">Add to Quiz</string>
+    <string name="quiz_item_manual">Start Adding Questions</string>
+    <string name="make_your_own_quiz_text">Make Your Own Quiz</string>
+    <string name="original_word_field">Original Word</string>
+    <string name="translated_word_field">Translated Word</string>
+    <string name="definition_field">Answer</string>
+    <string name="view_quiz_button">View Quiz</string>
+</resources>
