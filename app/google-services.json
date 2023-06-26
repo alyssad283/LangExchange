@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "504344199375",
+    "project_id": "langexchange-1f9c1",
+    "storage_bucket": "langexchange-1f9c1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:504344199375:android:97effa07e630d78cbdb7ba",
+        "android_client_info": {
+          "package_name": "edu.temple.langexchange"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "504344199375-h69sc0fi8si6in8j0foqn4u74bam9gqg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuJdlvjeAm4nNCPERBuKitF7c0Okwvepo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "504344199375-h69sc0fi8si6in8j0foqn4u74bam9gqg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
